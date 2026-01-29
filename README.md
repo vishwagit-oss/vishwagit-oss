@@ -44,7 +44,9 @@ mindset: "Build secure systems that scale 🚀"
 
 
 
+
 🖥️ Backend & APIs
+
 
 
 
@@ -54,7 +56,9 @@ mindset: "Build secure systems that scale 🚀"
 
 
 
+
 ☁️ Cloud & DevOps
+
 
 
 
