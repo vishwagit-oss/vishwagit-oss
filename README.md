@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#38bdf8">Vishwa Gohil</span></h1>
 <h3 align="center">🚀 Full-Stack Developer | DevOps Explorer | Secure Auth Enthusiast</h3>
-::contentReference[oaicite:0]{index=0}
+
 
 
 <p align="center">
