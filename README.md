@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#38bdf8">Vishwa Gohil</span></h1>
-<h3 align="center">Full-Stack Developer • Cloud & DevOps Engineer • Security-First Builder</h3>
+
+<h3 align="center">
+Full-Stack Developer • Cloud & DevOps Engineer • Security-First Builder
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishwa-gohil">LinkedIn</a> •
