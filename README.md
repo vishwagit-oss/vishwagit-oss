@@ -18,165 +18,125 @@ Full-Stack Developer • Cloud & DevOps Engineer • Security-First Builder
 
 ## 🚀 About Me
 
+### ⚙️ profile.yaml
 
-### 🖥️ whoami
+```yaml
+name: Vishwa Gohil
+location: Canada 🇨🇦
+role: Full-Stack & Cloud Engineer
 
-```bash
-$ whoami
-Vishwa Gohil
+focus:
+  - Authentication
+  - IAM
+  - API Security
+  - Automation
 
-$ location
-Canada 🇨🇦
+learning:
+  - Docker
+  - CI/CD
+  - Kubernetes
 
-$ role
-Full-Stack & Cloud Engineer
-
-$ focus
-Auth • IAM • API Security • Automation
-
-$ currently-learning
-Docker • CI/CD • Kubernetes
-
-$ philosophy
-Build secure systems that scale 🚀
-
+mindset: "Build secure systems that scale 🚀"
+🛠️ Tech Stack
+💻 Frontend
 
 
-## 🛠️ Tech Stack
 
-### 💻 Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
 
-### 🖥️ Backend & APIs
+🖥️ Backend & APIs
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?logo=express)
-![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
 
-### 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb)
 
-### ☁️ Cloud & DevOps
+🗄️ Databases
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-000?logo=ansible)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins)
 
-### 🔐 Security
 
-![JWT](https://img.shields.io/badge/JWT-000?logo=jsonwebtokens)
 
-* OTP Authentication
-* AWS IAM & Cognito
-* Rate Limiting, CORS, Security Headers
+☁️ Cloud & DevOps
 
----
 
-## 🧩 Featured Projects
 
-### 🚢 PERFECT-SHIP-APP
 
-🔗 [https://github.com/vishwagit-oss/Araw-ship](https://github.com/vishwagit-oss/Araw-ship)
-*Real-time ship operations management system*
 
-**Tech:** Next.js · Node.js · MongoDB · Tailwind · JWT
 
-* OTP-based Admin Authentication
-* JWT-secured APIs
-* Admin-only dashboards
-* Real-time data filtering & monitoring
 
----
+🔐 Security
 
-### 🛒 ShopStyle – Full-Stack E-Commerce
 
-🔗 [https://laravel-ecommerce-app.vercel.app/](https://laravel-ecommerce-app.vercel.app/)
+OTP Authentication
 
-**Tech:** Laravel 10 · PHP · JavaScript · MySQL
+AWS IAM & Cognito
 
-* Secure REST API with **25+ endpoints**
-* Sanctum auth, rate limiting & security headers
-* Products, cart, checkout, orders, wishlist & returns
-* Responsive UI with real-time cart updates
+Rate Limiting, CORS, Security Headers
 
----
+🧩 Featured Projects
+🚢 PERFECT-SHIP-APP
+🔗 https://github.com/vishwagit-oss/Araw-ship
+Real-time ship operations management system
 
-### 🧱 Terraform Infrastructure
+Tech: Next.js · Node.js · MongoDB · Tailwind · JWT
 
-🔗 [https://github.com/vishwagit-oss/terraform-project](https://github.com/vishwagit-oss/terraform-project)
+OTP-based Admin Authentication
 
-* Infrastructure as Code for AWS
-* Secure & reproducible deployments
+JWT-secured APIs
 
----
+Admin-only dashboards
 
-### 🛠️ Ansible Automation
+Real-time data filtering & monitoring
 
-🔗 [https://github.com/vishwagit-oss/Ansible](https://github.com/vishwagit-oss/Ansible)
+🛒 ShopStyle – Full-Stack E-Commerce
+🔗 https://laravel-ecommerce-app.vercel.app/
 
-* YAML playbooks for system provisioning
+Tech: Laravel 10 · PHP · JavaScript · MySQL
 
----
+Secure REST API with 25+ endpoints
 
-### 🔐 IAM Security Writeups
+Sanctum auth, rate limiting & security headers
 
-🔗 [https://github.com/vishwagit-oss/ccgc5501-bigiamchallenge-writeup](https://github.com/vishwagit-oss/ccgc5501-bigiamchallenge-writeup)
+Products, cart, checkout, orders, wishlist & returns
 
-* IAM misconfiguration analysis & exploit documentation
+Responsive UI with real-time cart updates
 
----
+🧱 Terraform Infrastructure
+🔗 https://github.com/vishwagit-oss/terraform-project
 
-### 🛒 Ecommerce Frontend
+Infrastructure as Code for AWS
 
-🔗 [https://github.com/vishwagit-oss/Ecommerce](https://github.com/vishwagit-oss/Ecommerce)
+Secure & reproducible deployments
 
-* JavaScript-based shopping UI & cart logic
+🛠️ Ansible Automation
+🔗 https://github.com/vishwagit-oss/Ansible
 
----
+YAML playbooks for system provisioning
 
-## 📊 GitHub Stats
+🔐 IAM Security Writeups
+🔗 https://github.com/vishwagit-oss/ccgc5501-bigiamchallenge-writeup
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwagit-oss&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagit-oss&layout=compact&theme=tokyonight" width="40%" />
-</p>
+IAM misconfiguration analysis & exploit documentation
 
----
+🛒 Ecommerce Frontend
+🔗 https://github.com/vishwagit-oss/Ecommerce
 
-## 🎯 2025 Goals
+JavaScript-based shopping UI & cart logic
 
-* 🚀 Ship 2+ production-ready full-stack apps
-* ☁️ Master Docker, CI/CD & cloud deployments
-* 🌐 Launch personal portfolio on Vercel
-* 🔐 Go deeper into cloud & backend security
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishwagit-oss&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagit-oss&layout=compact&theme=tokyonight" width="40%" /> </p>
+🎯 2025 Goals
+🚀 Ship 2+ production-ready full-stack apps
 
----
+☁️ Master Docker, CI/CD & cloud deployments
 
-## 📫 Connect With Me
+🌐 Launch personal portfolio on Vercel
 
-* ✉️ Email: **[vishwagohil21@gmail.com](mailto:vishwagohil21@gmail.com)**
-* 🔗 LinkedIn: [https://www.linkedin.com/in/vishwa-gohil](https://www.linkedin.com/in/vishwa-gohil)
-* 🌍 Portfolio: *Coming Soon*
+🔐 Go deeper into cloud & backend security
 
----
+📫 Connect With Me
+✉️ Email: vishwagohil21@gmail.com
 
-<p align="center">
-  <b>“Code is not just syntax — it’s a solution someone desperately needs.”</b><br>
-  <i>— Vishwa Gohil</i>
-</p>
-```
+🔗 LinkedIn: https://www.linkedin.com/in/vishwa-gohil
 
+🌍 Portfolio: Coming Soon
+
+<p align="center"> <b>“Code is not just syntax — it’s a solution someone desperately needs.”</b><br> <i>— Vishwa Gohil</i> </p> ```
