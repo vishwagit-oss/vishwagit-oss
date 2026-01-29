@@ -16,27 +16,7 @@ Full-Stack Developer • Cloud & DevOps Engineer • Security-First Builder
 
 ---
 
-## 🚀 About Me
 
-### ⚙️ profile.yaml
-
-```yaml
-name: Vishwa Gohil
-location: Canada 🇨🇦
-role: Full-Stack & Cloud Engineer
-
-focus:
-  - Authentication
-  - IAM
-  - API Security
-  - Automation
-
-learning:
-  - Docker
-  - CI/CD
-  - Kubernetes
-
-mindset: "Build secure systems that scale 🚀"
 🛠️ Tech Stack
 💻 Frontend
 
