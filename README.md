@@ -18,7 +18,7 @@ Full-Stack Developer • Cloud & DevOps Engineer • Security-First Builder
 
 ## 🚀 About Me
 
-```ts
+
 const vishwa = {
   location: "Canada 🇨🇦",
   pronouns: "she/her",
@@ -166,4 +166,4 @@ const vishwa = {
   <i>— Vishwa Gohil</i>
 </p>
 ```
-::contentReference[oaicite:0]{index=0}
+
