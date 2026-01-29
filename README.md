@@ -1,3 +1,4 @@
+````md
 <h1 align="center">Hi there 👋, I'm <span style="color:#38bdf8">Vishwa Gohil</span></h1>
 <h3 align="center">Full-Stack Developer • Cloud & DevOps Engineer • Security-First Builder</h3>
 
@@ -24,7 +25,7 @@ const vishwa = {
   learning: ["Docker", "CI/CD", "Kubernetes"],
   mindset: "Build secure systems that scale 🚀"
 };
-
+````
 
 * 💻 Building **secure, production-ready web applications**
 * 🔐 Strong focus on **OTP, JWT, IAM & API security**
@@ -170,4 +171,5 @@ const vishwa = {
   <b>“Code is not just syntax — it’s a solution someone desperately needs.”</b><br>
   <i>— Vishwa Gohil</i>
 </p>
-
+```
+::contentReference[oaicite:0]{index=0}
