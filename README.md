@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#38bdf8">Vishwa Gohil</span></h1>
 <h3 align="center">🚀 Full-Stack Developer | DevOps Explorer | Secure Auth Enthusiast</h3>
+::contentReference[oaicite:0]{index=0}
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Passionate+Problem+Solver;Full-Stack+Web+Developer;DevOps+Learner;OTP+Auth+Implementer;Always+Learning+%F0%9F%8E%93" />
