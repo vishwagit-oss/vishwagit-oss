@@ -19,14 +19,27 @@ Full-Stack Developer • Cloud & DevOps Engineer • Security-First Builder
 ## 🚀 About Me
 
 
-const vishwa = {
-  location: "Canada 🇨🇦",
-  pronouns: "she/her",
-  role: "Full-Stack & Cloud Engineer",
-  focus: ["Auth", "IAM", "API Security", "Automation"],
-  learning: ["Docker", "CI/CD", "Kubernetes"],
-  mindset: "Build secure systems that scale 🚀"
-};
+### 🖥️ whoami
+
+```bash
+$ whoami
+Vishwa Gohil
+
+$ location
+Canada 🇨🇦
+
+$ role
+Full-Stack & Cloud Engineer
+
+$ focus
+Auth • IAM • API Security • Automation
+
+$ currently-learning
+Docker • CI/CD • Kubernetes
+
+$ philosophy
+Build secure systems that scale 🚀
+
 
 
 ## 🛠️ Tech Stack
