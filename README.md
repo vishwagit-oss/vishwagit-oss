@@ -1,146 +1,158 @@
-<!-- Profile README for https://github.com/vishwagit-oss/vishwagit-oss -->
-<!-- Create a public repo named exactly: vishwagit-oss — paste this file as README.md -->
+<!-- GitHub Profile README — paste into https://github.com/vishwagit-oss/vishwagit-oss -->
 
 <div align="center">
 
-# Vishwa Gohil
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Vishwa+Gohil;Full-Stack+Developer;Cloud+%26+DevOps;Security-First+Engineering" alt="Typing intro" />
 
-**Full-Stack Developer · Cloud & DevOps · Security-minded engineering**
+<br/>
 
-Building reliable web apps, APIs, and cloud infrastructure with clean code and measurable outcomes.
-
+[![Profile views](https://komarev.com/ghpvc/?username=vishwagit-oss&label=Profile+views&color=0e75b6&style=for-the-badge)](https://github.com/vishwagit-oss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwa-gohil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwagohil21@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwagohil21@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishwagit-oss)
 
-📍 Vaughan, ON · Canada
+**Vaughan, ON · Canada** · Open to collaboration
 
 </div>
 
 ---
 
-## About
+### About me
 
-I am a **full-stack developer** with a **quantitative background (B.Sc. Physics)** and graduate training in **cloud computing** and **wireless telecommunications**. I ship production features end-to-end—from UI and APIs to databases and deployment—and I care about **security, data integrity, and maintainability**.
+```text
+👨‍💻  Full-stack developer with a B.Sc. in Physics + cloud & telecom certs
+🚀  I build web apps, APIs, databases, and deploy on AWS / Azure
+🔐  Security-first: auth, IAM, rate limits, validation, clean handoffs
+📈  Currently @ iMatr Canada · ex-intern @ Araw · Volterra · BLiNQ
+```
 
-**Currently:** Level 1 Programmer Intern at **iMatr Canada** (PHP, JavaScript, MySQL/PostgreSQL, Agile).  
-**Previously:** Software Engineer Intern at **Araw General Trading** (custom web platform on **Microsoft Azure**), cloud project work at **Volterra Technologies**, and telecom engineering projects at **BLiNQ Networks**.
-
-I enjoy turning messy requirements into structured systems people can actually use.
-
----
-
-## Tech stack
-
-### Languages & frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Data & APIs
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![REST](https://img.shields.io/badge/REST_API-grey?style=flat-square)
-
-### Cloud, DevOps & tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-### Security practices
-
-OTP authentication · JWT · AWS IAM & Cognito · rate limiting · CORS · security headers · secure API design
+I ship **end-to-end** — from UI and REST APIs to **MySQL/PostgreSQL**, **Terraform/Ansible**, and production support. I like systems that are **fast, secure, and easy to maintain**.
 
 ---
 
-## Featured projects
-
-| Project | Description | Stack | Links |
-|--------|-------------|-------|-------|
-| **Araw Ship** | Real-time ship operations management with admin dashboards, secured APIs, and live filtering | Next.js, Node.js, MongoDB, Tailwind, JWT, OTP | [Repo](https://github.com/vishwagit-oss/Araw-ship) |
-| **ShopStyle E-Commerce** | Full-stack store: catalog, cart, checkout, orders, wishlist, returns | Laravel 10, PHP, MySQL, JavaScript | [Live demo](https://laravel-ecommerce-app.vercel.app/) |
-| **Terraform on AWS** | Infrastructure as Code for reproducible, secure cloud deployments | Terraform, AWS | [Repo](https://github.com/vishwagit-oss/terraform-project) |
-| **Ansible Automation** | Playbooks for provisioning and configuration management | Ansible, YAML | [Repo](https://github.com/vishwagit-oss/Ansible) |
-| **IAM Security Writeups** | IAM misconfiguration analysis and documented findings | AWS IAM | [Repo](https://github.com/vishwagit-oss/ccgc5501-bigiamchallenge-writeup) |
-| **E-Commerce Frontend** | Shopping UI with cart logic and responsive layout | JavaScript | [Repo](https://github.com/vishwagit-oss/Ecommerce) |
-
-<details>
-<summary><strong>Project highlights (click to expand)</strong></summary>
-
-<br>
-
-**Araw Ship**
-- OTP-based admin authentication and JWT-secured REST APIs  
-- Admin dashboards with real-time monitoring and data filtering  
-
-**ShopStyle**
-- 25+ REST endpoints with Sanctum auth, rate limiting, and security headers  
-- Product catalog, cart, checkout, orders, wishlist, and returns flows  
-
-**Cloud & security**
-- Terraform modules for consistent AWS environments  
-- Ansible YAML playbooks for repeatable server setup  
-- IAM challenge writeups with clear reproduction steps  
-
-</details>
-
----
-
-## GitHub activity
+### Tech I use
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishwagit-oss&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwagit-oss&theme=default&hide_border=true" alt="GitHub streak" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagit-oss&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,python,mysql,postgres,mongodb,git,github,docker,aws,azure,terraform,ansible,linux&perline=10)](https://skillicons.dev)
 
 </div>
 
-> Tip: Pin your **5–6 best repos** on your profile (Araw-ship, terraform-project, Laravel app, IAM writeup, etc.) so visitors see quality first—not forks or practice repos.
+**Also:** JWT · OTP · Sanctum · REST · JIRA · Agile · Excel (data & scenarios)
 
 ---
 
-## Focus for 2026
+### GitHub analytics
 
-- [ ] Ship **2+ production-ready** full-stack projects with CI/CD  
-- [ ] Deepen **Docker** and automated deployment pipelines  
-- [ ] Publish a **personal portfolio** (Vercel)  
-- [ ] Grow **cloud security** and backend hardening skills  
-- [ ] Contribute more consistently to open source and personal repos  
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vishwagit-oss&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&show_icons=true&count_private=true" alt="Stats" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwagit-oss&theme=github_dark&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="Streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagit-oss&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8" alt="Languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwagit-oss&theme=github-dark-compact&hide_border=true&area=true&height=280" alt="Activity graph" />
+
+</div>
 
 ---
 
-## Connect
+### Featured work
 
-| | |
-|---|---|
-| **Email** | [vishwagohil21@gmail.com](mailto:vishwagohil21@gmail.com) |
-| **LinkedIn** | [linkedin.com/in/vishwa-gohil](https://www.linkedin.com/in/vishwa-gohil) |
-| **GitHub** | [github.com/vishwagit-oss](https://github.com/vishwagit-oss) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Araw Ship
+Real-time ship operations · admin dashboards · live filters
+
+`Next.js` `Node.js` `MongoDB` `JWT` `OTP`
+
+[![Repo](https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishwagit-oss/Araw-ship)
+
+</td>
+<td width="50%" valign="top">
+
+#### ShopStyle E-Commerce
+Full store: cart · checkout · orders · wishlist
+
+`Laravel 10` `PHP` `MySQL` `Sanctum`
+
+[![Live](https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://laravel-ecommerce-app.vercel.app/)
+[![Repo](https://img.shields.io/badge/Code-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishwagit-oss)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Terraform on AWS
+Infrastructure as Code · reproducible deploys
+
+`Terraform` `AWS` `IaC`
+
+[![Repo](https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishwagit-oss/terraform-project)
+
+</td>
+<td width="50%" valign="top">
+
+#### IAM Security Writeups
+Misconfiguration analysis · documented exploits
+
+`AWS IAM` `Security`
+
+[![Repo](https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishwagit-oss/ccgc5501-bigiamchallenge-writeup)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Ansible Automation
+Provisioning & configuration playbooks
+
+`Ansible` `YAML`
+
+[![Repo](https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishwagit-oss/Ansible)
+
+</td>
+<td width="50%" valign="top">
+
+#### E-Commerce Frontend
+Shopping UI · cart logic · responsive layout
+
+`JavaScript` `HTML` `CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishwagit-oss/Ecommerce)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 2026 goals
+
+```text
+[ ]  2+ production apps with CI/CD
+[ ]  Portfolio on Vercel
+[ ]  Deeper Docker + cloud security
+[ ]  Steadier open-source commits
+```
 
 ---
 
 <div align="center">
 
-<sub>Code is not just syntax—it is a solution someone needs.</sub>  
-**— Vishwa Gohil**
+### Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwa-gohil)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwagohil21@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer" />
+
+<sub><b>Code is not just syntax — it is a solution someone needs.</b></sub>  
+<sub>— Vishwa Gohil</sub>
 
 </div>
